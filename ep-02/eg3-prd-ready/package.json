@@ -1,0 +1,26 @@
+{
+  "name": "eg3-prd-ready",
+  "version": "1.0.0",
+  "description": "First react app",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukeshj2110/react-basics_nDev.git"
+  },
+  "author": "MJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukeshj2110/react-basics_nDev/issues"
+  },
+  "homepage": "https://github.com/mukeshj2110/react-basics_nDev#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
